@@ -1,3 +1,1 @@
-# Flask Project
-
-This is the class example.
+# CIST 1310 Spring 2024

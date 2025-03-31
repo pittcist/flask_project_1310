@@ -1,3 +1,3 @@
-# flask_project_1310
+# Flask Project
 
 This is the class example.
